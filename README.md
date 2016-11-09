@@ -21,5 +21,5 @@ Colaborações serão bem-vindas!
 ##### Forma mais simples de utilização
 
 ```javascript
-$('.telefone').maskbrdoc();
+$('.documento').maskbrdoc();
 ```
