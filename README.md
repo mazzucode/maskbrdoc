@@ -8,7 +8,7 @@ Colaborações serão bem-vindas!
 
 ### Exemplos de utilização
 
-[Acesse este link para ver o funcionamento (demo) do plugin](https://jsfiddle.net/masimao/ovnhpsww)
+[Acesse este link para ver o funcionamento (demo) do plugin](https://jsfiddle.net/masimao/qaog7cf5/2/)
 
 #### HTML
 
