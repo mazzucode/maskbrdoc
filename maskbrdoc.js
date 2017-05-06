@@ -1,8 +1,8 @@
 /**
- *  maskbrdoc for jQuery, version 1.0.0 (https://github.com/masimao/maskbrdoc)
- *  (c) 2016 Márcio Mazzucato (https://github.com/masimao)
+ * maskbrdoc for jQuery, version 1.0.0 (https://github.com/masimao/maskbrdoc)
+ * (c) 2016 Márcio Mazzucato (https://github.com/masimao)
  *
- *  maskbrphone for jQuery is freely distributable under the terms of an MIT-style license.
+ * maskbrphone for jQuery is freely distributable under the terms of an MIT-style license.
  */
 (function($) {
 
@@ -43,7 +43,7 @@
                                 .replace(/(\d{4})(\d)/, '$1-$2'); // Coloca um hífen depois do bloco de quatro dígitos
             }
 
-            return maskedDoc;
+            return maskedDoc.substring(0, 18);
         };
 
         initialize();
